@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-02",
+  "games": [
+    {
+      "id": "stardew-web",
+      "name": "星露谷网页版",
+      "name_en": "Stardew Valley Web",
+      "description": "像素风农场模拟经营游戏",
+      "ageRange": "6-12",
+      "category": "simulation",
+      "url": "https://feihu1991.github.io/stardew-web/",
+      "status": "live",
+      "version": "1.0.0"
+    }
+  ]
+}
